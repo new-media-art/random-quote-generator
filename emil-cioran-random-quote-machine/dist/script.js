@@ -46,8 +46,7 @@ for(let quote in cioranWisdom) {
 
 
 function formatQuote() {
-  // Add some ASCII here?
-  // Add in more symbols to the array? like emojies or what not?
+  
   let formatted = cioranQuote.join('\n')
   return formatted
 

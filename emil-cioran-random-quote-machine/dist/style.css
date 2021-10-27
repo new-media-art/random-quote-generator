@@ -1,5 +1,5 @@
 .body-attr {
-  background-color: #a39cf4;
+  background-color: #635f8a;
   padding: 20px;
   width: 900px;
   margin-left: auto;
@@ -16,6 +16,15 @@
   font-size: 40px;
   text-align: center;
 }
+
+.ascii-art {
+  font-family: monospace;
+  white-space: pre;
+  text-align: center;
+}
+
+
+
 .author-text {
   font-size: 20px;
   text-align: center;
@@ -38,7 +47,9 @@
   text-decoration: none;
   margin: 35px;
 }
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
+
+.dev {
+  font-size: 15px;
+  text-align: right;
+  font-family: monospace;
 }
