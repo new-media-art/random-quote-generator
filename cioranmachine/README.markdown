@@ -2,8 +2,11 @@
 =====================================================
 ![Quote Machine](./images/emil-cioran1.jpg)
 ![Quote Machine](./images/emil-cioran2.jpg)
+
 *[General info](#general-info)
+
 *[Technologies](#tecnologies)
+
 *[Setup](#setup)
 
 ## General info
