@@ -2,39 +2,38 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Random Quote Generator</title>
+  <title>Random Quotes By the Nihilist Phylosopher Emil Cioran</title>
   <link rel="stylesheet" href="./style.css">
+  <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
 
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<!-- for twitter button -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- for Allura font -->
 <link href='https://fonts.googleapis.com/css?family=Allura' rel='stylesheet'>
+</head>
 
-<body class="body-attr">
+<body>
 
-  <h1 class="title-text">* * * <b>Random Quotes</b> * * *</h1>
+
+
+
+<div class="body-attr">
+
+  <h1 class="title-text"><i class="fas fa-skull"></i><b>Random Quotes By the Nihilist Phylosopher Emil Cioran</b><i class="fas fa-skull"></i></h1>
 
   <p id="quote" class="quote-text"></p>
-  <p id="author" class="author-text"></p>
   
-  <div id="tweetDiv" class="box" style="text-align: center;">
-    <a class="fa fa-twitter" target="_blank"> Tweet This</a>
-  </div>
+  
   
   <div class="box" style="text-align:center;">
-    <button id="getQuote" class="button" onclick="getRandomQuote()">
+    
+    <button onclick="getElementById('quote').innerHTML = cioran()">
       <b>GET NEW QUOTE</b>
     </button>
   </div>
 
   
   
-</body>
-<!-- partial -->
-  <script  src="./script.js"></script>
 
+  <!--<script  src="./script.js"></script>-->
+  <script  src="Untitled-1.js"></script>
 </body>
 </html>
