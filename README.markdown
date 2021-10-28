@@ -1,4 +1,4 @@
-# Random Quotes By the Nihilist Phylosopher ** Emil Cioran **
+# Random Quotes By the Nihilist Phylosopher **Emil Cioran**
 
 ![Quote Machine 1](https://github.com/new-media-art/random-quote-generator/blob/master/images/emil-cioran1.JPG)
 
