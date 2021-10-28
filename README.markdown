@@ -18,11 +18,11 @@ Emil Mihai Cioran (Romanian: 8 April 1911 – 20 June 1995) was a Romanian philo
 
 ## Technologies
 Proyect is created with:
-  *HTML5
-  *CSS3
-  *Javasript
-  *Git -version 2.33.1windows.1
-  *Command Line
+  * HTML5
+  * CSS3
+  * Javasript
+  * Git -version 2.33.1windows.1
+  * Command Line
 
 ## Setup
 1. Navigate to the “<>Code” tab.
